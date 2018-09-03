@@ -1,3 +1,5 @@
+> :skull: This project has been archived
+
 # The Phalcon StarterKit
 
 Phalcon is a wonderful C-based framework. It works fast and is really flexible, but its flexibility become a liability as there is no fixed default structure when you start your project.
